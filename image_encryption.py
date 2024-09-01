@@ -67,32 +67,4 @@ def decrypt_choice():
         print("Invalid location. Encrypted image not found. Please try again.")
 
 if __name__ == "__main__":
-    main()
-   
-   
-
-        o
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    main() 
